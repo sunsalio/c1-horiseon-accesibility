@@ -11,7 +11,7 @@ link to deployed application:
 https://sunsalio.github.io/c1-horiseon-accesibility/
 
 Screenshot of webpage:
-wh
+
 ```md
 ![alt text](assets/screenshot.png)```
   
